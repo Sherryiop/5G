@@ -1,8 +1,3 @@
-scewr_driver
+screw_driver
 brush
 stickers
-part_A
-part_B
-part_C
-part_D
-scews_box
